@@ -1,0 +1,16 @@
+C:\Aula Dotnet\PROJETO2APP\obj\Debug\net5.0\PROJETO2APP.csprojAssemblyReference.cache
+C:\Aula Dotnet\PROJETO2APP\obj\Debug\net5.0\PROJETO2APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aula Dotnet\PROJETO2APP\obj\Debug\net5.0\PROJETO2APP.AssemblyInfoInputs.cache
+C:\Aula Dotnet\PROJETO2APP\obj\Debug\net5.0\PROJETO2APP.AssemblyInfo.cs
+C:\Aula Dotnet\PROJETO2APP\obj\Debug\net5.0\PROJETO2APP.csproj.CoreCompileInputs.cache
+C:\Aula Dotnet\PROJETO2APP\bin\Debug\net5.0\PROJETO2APP.exe
+C:\Aula Dotnet\PROJETO2APP\bin\Debug\net5.0\PROJETO2APP.deps.json
+C:\Aula Dotnet\PROJETO2APP\bin\Debug\net5.0\PROJETO2APP.runtimeconfig.json
+C:\Aula Dotnet\PROJETO2APP\bin\Debug\net5.0\PROJETO2APP.runtimeconfig.dev.json
+C:\Aula Dotnet\PROJETO2APP\bin\Debug\net5.0\PROJETO2APP.dll
+C:\Aula Dotnet\PROJETO2APP\bin\Debug\net5.0\ref\PROJETO2APP.dll
+C:\Aula Dotnet\PROJETO2APP\bin\Debug\net5.0\PROJETO2APP.pdb
+C:\Aula Dotnet\PROJETO2APP\obj\Debug\net5.0\PROJETO2APP.dll
+C:\Aula Dotnet\PROJETO2APP\obj\Debug\net5.0\ref\PROJETO2APP.dll
+C:\Aula Dotnet\PROJETO2APP\obj\Debug\net5.0\PROJETO2APP.pdb
+C:\Aula Dotnet\PROJETO2APP\obj\Debug\net5.0\PROJETO2APP.genruntimeconfig.cache
